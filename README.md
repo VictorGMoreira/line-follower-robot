@@ -14,5 +14,10 @@ Firmware code made in C for a line follower robot
 - Languege: C
 - IDE: STM32CubeIDE
 - Framework: STM32 HAL.
+- 
+## Development
 
-## Autors
+| Integrante | GitHub |
+|---|---|
+| Ícaro Santana | [@usuario](https://github.com/usuario) |
+| Victor Moreira | [@usuario](https://github.com/usuario) |
