@@ -1,2 +1,18 @@
-# line-follower-robot
-A line follower robot firmware code
+# Line Follower Robot
+
+## Abstract
+Firmware code made in C for a line follower robot
+
+
+## Hardware
+- Microcontroller: STM32 Black Pill.
+- Sensors: 
+- Motor Drivers: 
+- DC motors: 
+
+## Firmware
+- Languege: C
+- IDE: STM32CubeIDE
+- Framework: STM32 HAL.
+
+## Autors
